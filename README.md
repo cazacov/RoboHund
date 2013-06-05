@@ -7,7 +7,7 @@ Robodog "Antenni" is an electronic dog built from LEGO Mindstorms NXT, Arduino a
 
 Components:
 
-[<img src="https://github.com/cazacov/RoboHund/blob/master/img/RoboDog%20components.png?raw=true" alt="RoboHund components" width="620" height="305"/>](https://github.com/cazacov/RoboHund/blob/master/img/RoboDog%20components.png?raw=true "Component diagram")
+[<img src="https://github.com/cazacov/RoboHund/blob/master/img/RoboDog%20components.png?raw=true" alt="RoboHund components" width="800" height="503"/>](https://github.com/cazacov/RoboHund/blob/master/img/RoboDog%20components.png?raw=true "Component diagram")
 
 
 Chassis build from Lego Mindstorms NXT
